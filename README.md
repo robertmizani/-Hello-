@@ -1,2 +1,0 @@
-# Hello
-Created with CodeSandbox
